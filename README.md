@@ -1,2 +1,2 @@
 # Flavors-of-Cacao-Project
-Exploratory Analysis of different flavors of cocoa of over 1,700 chocolate bars from 2006 – 2017.
+Exploratory Analysis of an open-sourced data set with different cocoa flavors of over 1,700 chocolate bars from 2006 – 2017.
