@@ -33,7 +33,7 @@ Kaggle- open-source data
 GEO JSON- customizable JSON files for different continents or the entire globe
 Quandl - open-source data -sourced time-series data via API-
 
-[Tableau Link Here](https://public.tableau.com/shared/QCP85K7PK?:display_count=n&:origin=viz_share_link)
+[Tableau Link Here](https://public.tableau.com/views/FlavorsofCacaoProject/FlavorsofCacaoAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
